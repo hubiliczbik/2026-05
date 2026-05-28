@@ -1,5 +1,3 @@
-# IC_1
-
 Python exercises prepared for DE mentoring.
 
 ## Structure
